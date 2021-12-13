@@ -1,0 +1,15 @@
+# CMake generation dependency list for this directory.
+C:/Dev/EngineForAnimationCourse/external/glfw/CMakeLists.txt
+C:/Dev/EngineForAnimationCourse/external/glfw/src/glfw3.pc.in
+C:/Dev/EngineForAnimationCourse/external/glfw/src/glfw3Config.cmake.in
+C:/Dev/EngineForAnimationCourse/external/glfw/src/glfw_config.h.in
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CMakePackageConfigHelpers.cmake
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CheckIncludeFile.cmake
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CheckLibraryExists.cmake
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/FindPackageMessage.cmake
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/FindThreads.cmake
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/GNUInstallDirs.cmake
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/WriteBasicConfigVersionFile.cmake

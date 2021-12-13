@@ -1,0 +1,5 @@
+method=git
+repository=https://github.com/libigl/libigl-imgui.git
+remote=origin
+source_dir=D:/repos/AnimationAssign2/cmake/../external/libigl-imgui
+

@@ -1,0 +1,142 @@
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\STB\CMAKEFILES\C735C26385007B565C683D7CAD8B65AC\STB-DOWNLOAD-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -P D:/repos/AnimationAssign2/external/.cache/stb/stb-download-prefix/tmp/stb-download-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/Debug/stb-download-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\STB\CMAKEFILES\C735C26385007B565C683D7CAD8B65AC\STB-DOWNLOAD-DOWNLOAD.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -P D:/repos/AnimationAssign2/external/.cache/stb/stb-download-prefix/tmp/stb-download-download.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/Debug/stb-download-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\STB\CMAKEFILES\C735C26385007B565C683D7CAD8B65AC\STB-DOWNLOAD-UPDATE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -P D:/repos/AnimationAssign2/external/.cache/stb/stb-download-prefix/tmp/stb-download-update.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\STB\CMAKEFILES\C735C26385007B565C683D7CAD8B65AC\STB-DOWNLOAD-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/Debug/stb-download-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\STB\CMAKEFILES\C735C26385007B565C683D7CAD8B65AC\STB-DOWNLOAD-CONFIGURE.RULE
+setlocal
+cd E:\Repositories\Animation_igl_engine_build_assignment2\bin\stb-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/Debug/stb-download-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\STB\CMAKEFILES\C735C26385007B565C683D7CAD8B65AC\STB-DOWNLOAD-BUILD.RULE
+setlocal
+cd E:\Repositories\Animation_igl_engine_build_assignment2\bin\stb-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/Debug/stb-download-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\STB\CMAKEFILES\C735C26385007B565C683D7CAD8B65AC\STB-DOWNLOAD-INSTALL.RULE
+setlocal
+cd E:\Repositories\Animation_igl_engine_build_assignment2\bin\stb-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/Debug/stb-download-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\STB\CMAKEFILES\C735C26385007B565C683D7CAD8B65AC\STB-DOWNLOAD-TEST.RULE
+setlocal
+cd E:\Repositories\Animation_igl_engine_build_assignment2\bin\stb-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/Debug/stb-download-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\STB\CMAKEFILES\ADED646B45B03C4B7A8F43C45FA3033F\STB-DOWNLOAD-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/Debug/stb-download-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/stb/stb-download-prefix/src/stb-download-stamp/Debug/stb-download-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\STB\CMAKEFILES\D3FC37758A75ABEAD75BE55CF8CC75A0\STB-DOWNLOAD.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\STB\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/repos/AnimationAssign2/external/.cache/stb -BD:/repos/AnimationAssign2/external/.cache/stb --check-stamp-file D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/eigen/CMakeFiles/eigen-download"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/eigen/CMakeFiles/9cd92a903558cd5f19cc264d9d4c70d3/eigen-download.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/eigen/CMakeFiles/7826d956b2cb3dc15ea2298f991150af/eigen-download-complete.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/eigen/CMakeFiles/932a41263659d35de9bb16ecaff9ae1e/eigen-download-build.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/eigen/CMakeFiles/932a41263659d35de9bb16ecaff9ae1e/eigen-download-configure.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/eigen/CMakeFiles/932a41263659d35de9bb16ecaff9ae1e/eigen-download-download.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/eigen/CMakeFiles/932a41263659d35de9bb16ecaff9ae1e/eigen-download-install.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/eigen/CMakeFiles/932a41263659d35de9bb16ecaff9ae1e/eigen-download-mkdir.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/eigen/CMakeFiles/932a41263659d35de9bb16ecaff9ae1e/eigen-download-patch.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/eigen/CMakeFiles/932a41263659d35de9bb16ecaff9ae1e/eigen-download-test.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/eigen/CMakeFiles/932a41263659d35de9bb16ecaff9ae1e/eigen-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"eigen-download"
+		],
+		"name" : "eigen-download"
+	}
+}

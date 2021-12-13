@@ -1,0 +1,17 @@
+C:/Dev/EngineForAnimationCourse/CMakeFiles/igl.dir
+C:/Dev/EngineForAnimationCourse/CMakeFiles/igl_opengl.dir
+C:/Dev/EngineForAnimationCourse/CMakeFiles/igl_opengl_glfw.dir
+C:/Dev/EngineForAnimationCourse/CMakeFiles/igl_opengl_glfw_imgui.dir
+C:/Dev/EngineForAnimationCourse/CMakeFiles/igl_png.dir
+C:/Dev/EngineForAnimationCourse/CMakeFiles/ALL_BUILD.dir
+C:/Dev/EngineForAnimationCourse/CMakeFiles/ZERO_CHECK.dir
+C:/Dev/EngineForAnimationCourse/glad/CMakeFiles/glad.dir
+C:/Dev/EngineForAnimationCourse/glad/CMakeFiles/ALL_BUILD.dir
+C:/Dev/EngineForAnimationCourse/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Dev/EngineForAnimationCourse/glfw/src/CMakeFiles/glfw.dir
+C:/Dev/EngineForAnimationCourse/imgui/CMakeFiles/imgui.dir
+C:/Dev/EngineForAnimationCourse/stb_image/CMakeFiles/igl_stb_image.dir
+C:/Dev/EngineForAnimationCourse/stb_image/CMakeFiles/ALL_BUILD.dir
+C:/Dev/EngineForAnimationCourse/tutorial/CMakeFiles/ALL_BUILD.dir
+C:/Dev/EngineForAnimationCourse/tutorial/sandBox/CMakeFiles/sandBox_bin.dir
+C:/Dev/EngineForAnimationCourse/tutorial/sandBox/CMakeFiles/ALL_BUILD.dir

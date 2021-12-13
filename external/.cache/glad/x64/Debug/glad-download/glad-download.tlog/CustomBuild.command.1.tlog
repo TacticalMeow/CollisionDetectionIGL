@@ -1,0 +1,142 @@
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\GLAD\CMAKEFILES\9E8B201AD22A1819AB963A6A736CEDEC\GLAD-DOWNLOAD-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -P D:/repos/AnimationAssign2/external/.cache/glad/glad-download-prefix/tmp/glad-download-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/Debug/glad-download-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\GLAD\CMAKEFILES\9E8B201AD22A1819AB963A6A736CEDEC\GLAD-DOWNLOAD-DOWNLOAD.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -P D:/repos/AnimationAssign2/external/.cache/glad/glad-download-prefix/tmp/glad-download-download.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/Debug/glad-download-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\GLAD\CMAKEFILES\9E8B201AD22A1819AB963A6A736CEDEC\GLAD-DOWNLOAD-UPDATE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -P D:/repos/AnimationAssign2/external/.cache/glad/glad-download-prefix/tmp/glad-download-update.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\GLAD\CMAKEFILES\9E8B201AD22A1819AB963A6A736CEDEC\GLAD-DOWNLOAD-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/Debug/glad-download-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\GLAD\CMAKEFILES\9E8B201AD22A1819AB963A6A736CEDEC\GLAD-DOWNLOAD-CONFIGURE.RULE
+setlocal
+cd E:\Repositories\Animation_igl_engine_build_assignment2\bin\glad-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/Debug/glad-download-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\GLAD\CMAKEFILES\9E8B201AD22A1819AB963A6A736CEDEC\GLAD-DOWNLOAD-BUILD.RULE
+setlocal
+cd E:\Repositories\Animation_igl_engine_build_assignment2\bin\glad-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/Debug/glad-download-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\GLAD\CMAKEFILES\9E8B201AD22A1819AB963A6A736CEDEC\GLAD-DOWNLOAD-INSTALL.RULE
+setlocal
+cd E:\Repositories\Animation_igl_engine_build_assignment2\bin\glad-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/Debug/glad-download-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\GLAD\CMAKEFILES\9E8B201AD22A1819AB963A6A736CEDEC\GLAD-DOWNLOAD-TEST.RULE
+setlocal
+cd E:\Repositories\Animation_igl_engine_build_assignment2\bin\glad-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/Debug/glad-download-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\GLAD\CMAKEFILES\51F4F185D8762EAFC068EEBF5AE7F0F0\GLAD-DOWNLOAD-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory D:/repos/AnimationAssign2/external/.cache/glad/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/glad/CMakeFiles/Debug/glad-download-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/glad/glad-download-prefix/src/glad-download-stamp/Debug/glad-download-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\GLAD\CMAKEFILES\1AE5CA6C94A62B26AC1A04904D9DD6FB\GLAD-DOWNLOAD.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\GLAD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/repos/AnimationAssign2/external/.cache/glad -BD:/repos/AnimationAssign2/external/.cache/glad --check-stamp-file D:/repos/AnimationAssign2/external/.cache/glad/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

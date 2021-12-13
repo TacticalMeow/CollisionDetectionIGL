@@ -1,0 +1,11 @@
+# CMake generation dependency list for this directory.
+C:/Dev/EngineForAnimationCourse/external/stb/CMakeLists.txt
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CheckCCompilerFlag.cmake
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CheckCXXCompilerFlag.cmake
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CheckCXXSourceCompiles.cmake
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/GenerateExportHeader.cmake
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/Internal/CheckCompilerFlag.cmake
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/Internal/CheckSourceCompiles.cmake
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/exportheader.cmake.in

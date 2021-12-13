@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Dev/EngineForAnimationCourse/cmake/DownloadProject.cmake
+C:/Dev/EngineForAnimationCourse/cmake/LibiglDownloadExternal.cmake
+C:/Dev/EngineForAnimationCourse/tutorial/CMakeLists.txt
+C:/Users/Yosef/Desktop/cmake-3.22.0-windows-x86_64/cmake-3.22.0-windows-x86_64/share/cmake-3.22/Modules/CMakeParseArguments.cmake

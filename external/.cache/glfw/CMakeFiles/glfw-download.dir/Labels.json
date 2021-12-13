@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/glfw-download"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/56f797e9d7ff170ad53e942b32073374/glfw-download.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/f87186f57639e95cd7eef4e5a859d2b7/glfw-download-complete.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/f9bed99261b3f251b84d83445a4be52d/glfw-download-build.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/f9bed99261b3f251b84d83445a4be52d/glfw-download-configure.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/f9bed99261b3f251b84d83445a4be52d/glfw-download-download.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/f9bed99261b3f251b84d83445a4be52d/glfw-download-install.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/f9bed99261b3f251b84d83445a4be52d/glfw-download-mkdir.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/f9bed99261b3f251b84d83445a4be52d/glfw-download-patch.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/f9bed99261b3f251b84d83445a4be52d/glfw-download-test.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/f9bed99261b3f251b84d83445a4be52d/glfw-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-download"
+		],
+		"name" : "glfw-download"
+	}
+}

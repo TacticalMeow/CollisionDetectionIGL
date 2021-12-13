@@ -1,0 +1,142 @@
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\IMGUI\CMAKEFILES\CC7E4080EE3A347438C6D0AF4893AE79\IMGUI-DOWNLOAD-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -P D:/repos/AnimationAssign2/external/.cache/imgui/imgui-download-prefix/tmp/imgui-download-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/imgui/imgui-download-prefix/src/imgui-download-stamp/Debug/imgui-download-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\IMGUI\CMAKEFILES\CC7E4080EE3A347438C6D0AF4893AE79\IMGUI-DOWNLOAD-DOWNLOAD.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -P D:/repos/AnimationAssign2/external/.cache/imgui/imgui-download-prefix/tmp/imgui-download-download.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/imgui/imgui-download-prefix/src/imgui-download-stamp/Debug/imgui-download-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\IMGUI\CMAKEFILES\CC7E4080EE3A347438C6D0AF4893AE79\IMGUI-DOWNLOAD-UPDATE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -P D:/repos/AnimationAssign2/external/.cache/imgui/imgui-download-prefix/tmp/imgui-download-update.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\IMGUI\CMAKEFILES\CC7E4080EE3A347438C6D0AF4893AE79\IMGUI-DOWNLOAD-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/imgui/imgui-download-prefix/src/imgui-download-stamp/Debug/imgui-download-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\IMGUI\CMAKEFILES\CC7E4080EE3A347438C6D0AF4893AE79\IMGUI-DOWNLOAD-CONFIGURE.RULE
+setlocal
+cd E:\Repositories\Animation_igl_engine_build_assignment2\bin\imgui-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/imgui/imgui-download-prefix/src/imgui-download-stamp/Debug/imgui-download-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\IMGUI\CMAKEFILES\CC7E4080EE3A347438C6D0AF4893AE79\IMGUI-DOWNLOAD-BUILD.RULE
+setlocal
+cd E:\Repositories\Animation_igl_engine_build_assignment2\bin\imgui-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/imgui/imgui-download-prefix/src/imgui-download-stamp/Debug/imgui-download-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\IMGUI\CMAKEFILES\CC7E4080EE3A347438C6D0AF4893AE79\IMGUI-DOWNLOAD-INSTALL.RULE
+setlocal
+cd E:\Repositories\Animation_igl_engine_build_assignment2\bin\imgui-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/imgui/imgui-download-prefix/src/imgui-download-stamp/Debug/imgui-download-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\IMGUI\CMAKEFILES\CC7E4080EE3A347438C6D0AF4893AE79\IMGUI-DOWNLOAD-TEST.RULE
+setlocal
+cd E:\Repositories\Animation_igl_engine_build_assignment2\bin\imgui-build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/imgui/imgui-download-prefix/src/imgui-download-stamp/Debug/imgui-download-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\IMGUI\CMAKEFILES\0B40D9ED100CE407BB1CE65C5FA61B1A\IMGUI-DOWNLOAD-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory D:/repos/AnimationAssign2/external/.cache/imgui/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/imgui/CMakeFiles/Debug/imgui-download-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/repos/AnimationAssign2/external/.cache/imgui/imgui-download-prefix/src/imgui-download-stamp/Debug/imgui-download-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\IMGUI\CMAKEFILES\C255ABA398FDCDB0B0CF4E05C69F314A\IMGUI-DOWNLOAD.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\IMGUI\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/repos/AnimationAssign2/external/.cache/imgui -BD:/repos/AnimationAssign2/external/.cache/imgui --check-stamp-file D:/repos/AnimationAssign2/external/.cache/imgui/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

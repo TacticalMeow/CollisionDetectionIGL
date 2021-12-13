@@ -1,0 +1,3 @@
+﻿cl : command line warning D9025: overriding '/W3' with '/w'
+  ImGuiMenu.cpp
+  igl_opengl_glfw_imgui.vcxproj -> C:\Dev\EngineForAnimationCourse\Debug\igl_opengl_glfw_imgui.lib

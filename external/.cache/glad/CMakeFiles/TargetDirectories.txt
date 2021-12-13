@@ -1,0 +1,3 @@
+D:/repos/AnimationAssign2/external/.cache/glad/CMakeFiles/glad-download.dir
+D:/repos/AnimationAssign2/external/.cache/glad/CMakeFiles/ALL_BUILD.dir
+D:/repos/AnimationAssign2/external/.cache/glad/CMakeFiles/ZERO_CHECK.dir

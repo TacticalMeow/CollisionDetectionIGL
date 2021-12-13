@@ -1,0 +1,3 @@
+﻿cl : command line warning D9025: overriding '/W3' with '/w'
+  ViewerData.cpp
+  igl_opengl.vcxproj -> C:\Dev\EngineForAnimationCourse\Debug\igl_opengl.lib

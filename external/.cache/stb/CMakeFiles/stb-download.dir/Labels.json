@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/stb-download"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/d3fc37758a75abead75be55cf8cc75a0/stb-download.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/aded646b45b03c4b7a8f43c45fa3033f/stb-download-complete.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/c735c26385007b565c683d7cad8b65ac/stb-download-build.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/c735c26385007b565c683d7cad8b65ac/stb-download-configure.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/c735c26385007b565c683d7cad8b65ac/stb-download-download.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/c735c26385007b565c683d7cad8b65ac/stb-download-install.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/c735c26385007b565c683d7cad8b65ac/stb-download-mkdir.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/c735c26385007b565c683d7cad8b65ac/stb-download-patch.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/c735c26385007b565c683d7cad8b65ac/stb-download-test.rule"
+		},
+		{
+			"file" : "D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/c735c26385007b565c683d7cad8b65ac/stb-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"stb-download"
+		],
+		"name" : "stb-download"
+	}
+}

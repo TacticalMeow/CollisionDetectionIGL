@@ -1,0 +1,15 @@
+﻿  Building Custom Rule C:/Dev/EngineForAnimationCourse/CMakeLists.txt
+cl : command line warning D9025: overriding '/W3' with '/w'
+cl : command line warning D9025: overriding '/W3' with '/w'
+cl : command line warning D9025: overriding '/W3' with '/w'
+  readPNG.cpp
+  render_to_png.cpp
+cl : command line warning D9025: overriding '/W3' with '/w'
+  render_to_png_async.cpp
+cl : command line warning D9025: overriding '/W3' with '/w'
+cl : command line warning D9025: overriding '/W3' with '/w'
+  texture_from_file.cpp
+  texture_from_png.cpp
+cl : command line warning D9025: overriding '/W3' with '/w'
+  writePNG.cpp
+  igl_png.vcxproj -> C:\Dev\EngineForAnimationCourse\Debug\igl_png.lib

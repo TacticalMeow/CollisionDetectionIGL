@@ -1,0 +1,14 @@
+# Target labels
+ libigl-imgui-download
+# Source files and their labels
+D:/repos/AnimationAssign2/external/.cache/libigl-imgui/CMakeFiles/libigl-imgui-download
+D:/repos/AnimationAssign2/external/.cache/libigl-imgui/CMakeFiles/652931844f6f68dd89a5586a065a322e/libigl-imgui-download.rule
+D:/repos/AnimationAssign2/external/.cache/libigl-imgui/CMakeFiles/ab3ef07641f8c9f5e59f9688750563ab/libigl-imgui-download-complete.rule
+D:/repos/AnimationAssign2/external/.cache/libigl-imgui/CMakeFiles/6d494d3e0fd5b668558aa54c61f264cb/libigl-imgui-download-build.rule
+D:/repos/AnimationAssign2/external/.cache/libigl-imgui/CMakeFiles/6d494d3e0fd5b668558aa54c61f264cb/libigl-imgui-download-configure.rule
+D:/repos/AnimationAssign2/external/.cache/libigl-imgui/CMakeFiles/6d494d3e0fd5b668558aa54c61f264cb/libigl-imgui-download-download.rule
+D:/repos/AnimationAssign2/external/.cache/libigl-imgui/CMakeFiles/6d494d3e0fd5b668558aa54c61f264cb/libigl-imgui-download-install.rule
+D:/repos/AnimationAssign2/external/.cache/libigl-imgui/CMakeFiles/6d494d3e0fd5b668558aa54c61f264cb/libigl-imgui-download-mkdir.rule
+D:/repos/AnimationAssign2/external/.cache/libigl-imgui/CMakeFiles/6d494d3e0fd5b668558aa54c61f264cb/libigl-imgui-download-patch.rule
+D:/repos/AnimationAssign2/external/.cache/libigl-imgui/CMakeFiles/6d494d3e0fd5b668558aa54c61f264cb/libigl-imgui-download-test.rule
+D:/repos/AnimationAssign2/external/.cache/libigl-imgui/CMakeFiles/6d494d3e0fd5b668558aa54c61f264cb/libigl-imgui-download-update.rule

@@ -1,0 +1,10 @@
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\EIGEN\CMAKEFILES\9CD92A903558CD5F19CC264D9D4C70D3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/repos/AnimationAssign2/external/.cache/eigen -BD:/repos/AnimationAssign2/external/.cache/eigen --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/repos/AnimationAssign2/external/.cache/eigen/eigen-download.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

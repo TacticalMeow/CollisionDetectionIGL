@@ -1,0 +1,5 @@
+method=git
+repository=https://github.com/glfw/glfw.git
+remote=origin
+source_dir=D:/repos/AnimationAssign2/cmake/../external/glfw
+

@@ -1,0 +1,14 @@
+# Target labels
+ glfw-download
+# Source files and their labels
+D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/glfw-download
+D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/56f797e9d7ff170ad53e942b32073374/glfw-download.rule
+D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/f87186f57639e95cd7eef4e5a859d2b7/glfw-download-complete.rule
+D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/f9bed99261b3f251b84d83445a4be52d/glfw-download-build.rule
+D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/f9bed99261b3f251b84d83445a4be52d/glfw-download-configure.rule
+D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/f9bed99261b3f251b84d83445a4be52d/glfw-download-download.rule
+D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/f9bed99261b3f251b84d83445a4be52d/glfw-download-install.rule
+D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/f9bed99261b3f251b84d83445a4be52d/glfw-download-mkdir.rule
+D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/f9bed99261b3f251b84d83445a4be52d/glfw-download-patch.rule
+D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/f9bed99261b3f251b84d83445a4be52d/glfw-download-test.rule
+D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/f9bed99261b3f251b84d83445a4be52d/glfw-download-update.rule

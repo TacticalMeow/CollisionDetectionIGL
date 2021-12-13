@@ -1,0 +1,10 @@
+^D:\REPOS\ANIMATIONASSIGN2\EXTERNAL\.CACHE\GLFW\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/repos/AnimationAssign2/external/.cache/glfw -BD:/repos/AnimationAssign2/external/.cache/glfw --check-stamp-file D:/repos/AnimationAssign2/external/.cache/glfw/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

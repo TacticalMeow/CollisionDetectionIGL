@@ -1,0 +1,10 @@
+# Directories
+build
+
+# Files
+*.vcxproj*
+*.pdb
+*.exe
+*.sln
+*.lib
+*.ilk

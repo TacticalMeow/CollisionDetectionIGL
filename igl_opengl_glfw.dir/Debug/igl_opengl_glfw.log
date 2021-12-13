@@ -1,0 +1,6 @@
+﻿cl : command line warning D9025: overriding '/W3' with '/w'
+cl : command line warning D9025: overriding '/W3' with '/w'
+cl : command line warning D9025: overriding '/W3' with '/w'
+  Viewer.cpp
+  renderer.cpp
+  igl_opengl_glfw.vcxproj -> C:\Dev\EngineForAnimationCourse\Debug\igl_opengl_glfw.lib

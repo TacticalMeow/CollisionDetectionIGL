@@ -1,0 +1,10 @@
+^C:\DEV\ENGINEFORANIMATIONCOURSE\CMAKEFILES\2EF0E4FB0076875D5A794A59E235718D\GENERATE.STAMP.RULE
+setlocal
+C:\Users\Yosef\Desktop\cmake-3.22.0-windows-x86_64\cmake-3.22.0-windows-x86_64\bin\cmake.exe -SC:/Dev/EngineForAnimationCourse -BC:/Dev/EngineForAnimationCourse --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Dev/EngineForAnimationCourse/EngienIGLnew.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

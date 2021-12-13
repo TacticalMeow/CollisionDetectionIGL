@@ -1,0 +1,14 @@
+# Target labels
+ stb-download
+# Source files and their labels
+D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/stb-download
+D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/d3fc37758a75abead75be55cf8cc75a0/stb-download.rule
+D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/aded646b45b03c4b7a8f43c45fa3033f/stb-download-complete.rule
+D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/c735c26385007b565c683d7cad8b65ac/stb-download-build.rule
+D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/c735c26385007b565c683d7cad8b65ac/stb-download-configure.rule
+D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/c735c26385007b565c683d7cad8b65ac/stb-download-download.rule
+D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/c735c26385007b565c683d7cad8b65ac/stb-download-install.rule
+D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/c735c26385007b565c683d7cad8b65ac/stb-download-mkdir.rule
+D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/c735c26385007b565c683d7cad8b65ac/stb-download-patch.rule
+D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/c735c26385007b565c683d7cad8b65ac/stb-download-test.rule
+D:/repos/AnimationAssign2/external/.cache/stb/CMakeFiles/c735c26385007b565c683d7cad8b65ac/stb-download-update.rule
